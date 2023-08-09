@@ -1,0 +1,17 @@
+body {
+    color: white;
+    font-family: Maximum Impact;
+}
+
+#search-bar {
+    width: 100%;
+}
+
+::-webkit-scrollbar {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb:horizontal {
+    background: rgba(0, 0, 0, 0.61);
+    border-radius: 10px;
+}
